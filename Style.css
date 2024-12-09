@@ -1,0 +1,63 @@
+
+
+h3 {
+    color: black;
+    font: 50px sans-serif;
+    text-align: center;
+    padding: 5px;
+}
+
+#blue {
+    background-color: turquoise;
+    color: black;
+    padding: 5px;
+    min-width: 70px;
+    
+}
+#red {
+    background-color: red;
+    color: black;
+    padding: 5px;
+    min-width: 70px;
+    
+}
+#green {
+    background-color: green;
+    color: black;
+    padding: 5px;
+    min-width: 70px;
+}
+#random {
+    background-color: purple;
+    color: black;
+    word-spacing: 5px;
+    padding: 5px;
+    min-width: 70px;
+}
+#reset {
+
+    color: black;
+    word-spacing: 5px;
+    padding: 5px;
+    min-width: 70px;
+}
+
+#colorField {
+    max-width: 22%;
+    padding: 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 30px auto 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    gap: 5px;
+    border-color: black;
+}
+
+
+
+
+
+
+
